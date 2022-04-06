@@ -1,4 +1,4 @@
-## Hi there 👋. Welcome to my Profile!
+## Hi there 👋. I'm glad you're here!
 
 - 🔭 I’m currently working on my **Bachelor's dissertation** in the area of **Natural Language Processing**
 - 🌱 I’m currently learning about **Machine Learning | Deep Learning | Natural Language Processing**
@@ -13,8 +13,8 @@
 ##
 <div align="center">
   <a href="https://github.com/bentobenack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bentobenack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentobenack&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bentobenack&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentobenack&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -148,3 +148,9 @@
 
 
  
+Exemplo   | Valor do exemplo
+--------- | ------
+Exemplo 1 | R$ 10
+Exemplo 2 | R$ 8
+Exemplo 3 | R$ 7
+Exemplo 4 | R$ 8
