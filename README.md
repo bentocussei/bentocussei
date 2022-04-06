@@ -36,7 +36,7 @@
 </div>
   
 ## Repositories
-* I'm building this section
+* I'm working on this section
 <table border="0" align="center">
    <thead>
    <tr>
