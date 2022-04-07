@@ -41,7 +41,7 @@
 </div>
   
 ## Repositories
-* I'm working on this section
+* I'm working on this section, soon you will can see the repos. Thank you for understanding!
 <table border="0" align="center">
    <thead>
    <tr>
