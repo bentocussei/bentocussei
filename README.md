@@ -33,7 +33,7 @@
   - [word2vec-semantic-similarity](https://github.com/bentobenack/word2vec-semantic-similarity/blob/main/word2vec.ipynb)
 
 * #### Computer Vision
-  - [No Link]()
+  - [No Link]
   
 * #### Backend
   - [twitter-api](https://github.com/bentobenack/twitter-api)
