@@ -18,6 +18,11 @@
 
 ## Table Of Contents
 
+### Certifications
+
+* [certifications](https://github.com/bentobenack/certifications)
+
+
 ### Repositories
 
 * #### Machine Learning
@@ -36,6 +41,3 @@
 * #### Data Structures And Algorithm
   - [leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)
   
-  
-### Certifications
-* [certifications](https://github.com/bentobenack/certifications)
