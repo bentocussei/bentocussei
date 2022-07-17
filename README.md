@@ -27,6 +27,6 @@
 
 |Machine_Learning|Natural_Language_Processing|Computer_Vision|Backend|Data_Structures_And_Algorithm|
 |---|---|---|---|---|
-|[sklearn_knn_digits_clasification](https://github.com/bentobenack/sklearn_knn_digits_clasification/blob/main/clasificacion-knn.ipynb)|[hmm_viterbi_pos_tagging](https://github.com/bentobenack/hmm_viterbi_pos_tagging/blob/main/hmm-viterbi-post-tag.ipynb)||[twitter-api](https://github.com/bentobenack/twitter-api)|[leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)|
+|[sklearn_knn_digits_clasification](https://github.com/bentobenack/sklearn_knn_digits_clasification/blob/main/clasificacion-knn.ipynb)|[hmm_viterbi_pos_tagging](https://github.com/bentobenack/hmm_viterbi_pos_tagging/blob/main/hmm_viterbi_post_tag.ipynb)||[twitter_api](https://github.com/bentobenack/twitter_api)|[leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)|
 ||[word2vec-semantic-similarity](https://github.com/bentobenack/word2vec-semantic-similarity/blob/main/word2vec.ipynb)||||
 
