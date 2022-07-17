@@ -25,19 +25,8 @@
 
 ### Repositories
 
-* #### Machine Learning
-  - [sklearn_knn_digits_clasification](https://github.com/bentobenack/sklearn_knn_digits_clasification/blob/main/clasificacion-knn.ipynb)
-  
-* #### Natural Language Processing
-  - [hmm_viterbi_pos_tagging](https://github.com/bentobenack/hmm_viterbi_pos_tagging/blob/main/hmm-viterbi-post-tag.ipynb)
-  - [word2vec-semantic-similarity](https://github.com/bentobenack/word2vec-semantic-similarity/blob/main/word2vec.ipynb)
+|Machine Learning|Natural Language Processing|Computer Vision|Backend|Data Structures And Algorithm|
+|---|---|---|---|---|
+|[sklearn_knn_digits_clasification](https://github.com/bentobenack/sklearn_knn_digits_clasification/blob/main/clasificacion-knn.ipynb)|[hmm_viterbi_pos_tagging](https://github.com/bentobenack/hmm_viterbi_pos_tagging/blob/main/hmm-viterbi-post-tag.ipynb)||[twitter-api](https://github.com/bentobenack/twitter-api)|[leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)|
+||[word2vec-semantic-similarity](https://github.com/bentobenack/word2vec-semantic-similarity/blob/main/word2vec.ipynb)||||
 
-* #### Computer Vision
-  - [No Link]
-  
-* #### Backend
-  - [twitter-api](https://github.com/bentobenack/twitter-api)
-  
-* #### Data Structures And Algorithm
-  - [leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)
-  
