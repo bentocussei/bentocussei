@@ -18,12 +18,12 @@
 
 ## Table Of Contents
 
-### Certifications
+### Some Certifications
 
 * [certifications](https://github.com/bentobenack/certifications)
 
 
-### Repositories
+### Some Repositories
 
 |Machine_Learning|Natural_Language_Processing|Computer_Vision|Backend|Data_Structures_And_Algorithm|
 |---|---|---|---|---|
