@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Bento Benack and glad you're here!
 
-- 🔭 I’m currently working on my **Bachelor's dissertation** in the area of **Natural Language Processing**
+- 🔭 I’m currently working on increasing my **Natural Language Processing** skills
 - 🌱 I’m currently learning about **Machine Learning | Deep Learning | Natural Language Processing**
 - 😄 Pronouns: **He/His**
 - 📫 How to reach me: 
