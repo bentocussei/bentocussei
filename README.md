@@ -35,3 +35,12 @@
 |[sklearn_knn_digits_clasification](https://github.com/bentobenack/sklearn_knn_digits_clasification/blob/main/clasificacion_knn.ipynb)|[hmm_viterbi_pos_tagging](https://github.com/bentobenack/hmm_viterbi_pos_tagging/blob/main/hmm_viterbi_post_tag.ipynb)||[twitter_api](https://github.com/bentobenack/twitter_api)|[leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)|
 ||[word2vec-semantic-similarity](https://github.com/bentobenack/word2vec-semantic-similarity/blob/main/word2vec.ipynb)||||
 
+##
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bentobenack/">LinkedIn</a> | 
+  <a href="https://www.instagram.com/bentobenack/">Instagram</a> |
+  <a href="https://twitter.com/bentobenack">Twitter</a> |
+  <a href="https://leetcode.com/bentobenack/">LeetCode</a> |
+  <a href="https://www.hackerrank.com/bentobenack">HackerRank</a>
+</p>
