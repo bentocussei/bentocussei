@@ -30,3 +30,10 @@
 |[sklearn_knn_digits_clasification](https://github.com/bentobenack/sklearn_knn_digits_clasification/blob/main/clasificacion_knn.ipynb)|[hmm_viterbi_pos_tagging](https://github.com/bentobenack/hmm_viterbi_pos_tagging/blob/main/hmm_viterbi_post_tag.ipynb)||[twitter_api](https://github.com/bentobenack/twitter_api)|[leetcode](https://github.com/bentobenack/leetcode/tree/main/solutions)|
 ||[word2vec-semantic-similarity](https://github.com/bentobenack/word2vec-semantic-similarity/blob/main/word2vec.ipynb)||||
 
+##
+
+<div align="center">
+  
+  ![countvisitors](https://profile-counter.glitch.me/bentobenak/count.svg)
+  
+</div>
