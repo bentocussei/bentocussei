@@ -1,8 +1,3 @@
-<div align="center">
-  
-  ![countvisitors](https://profile-counter.glitch.me/bentobenak/count.svg)
-  
-</div>
 <p align="center">
   <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">I'm Bento Benack</a></h1>
   <p align="center">Aspiring AI engineer, with a focus on NLP</p>
