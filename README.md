@@ -15,7 +15,7 @@
 
 <br />
 
-- 🔭 I’m currently working on increasing my **Natural Language Processing** skills
+- 🔭 I’m currently working on increase my **Natural Language Processing** skills
 - 🌱 I’m currently learning about **Machine Learning | Deep Learning | Natural Language Processing**
 
 ### Some Certifications
