@@ -37,9 +37,9 @@
 ##
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bentobenack/" target="_blank">LinkedIn</a> | 
-  <a href="https://www.instagram.com/bentobenack/" target="_blank">Instagram</a> |
-  <a href="https://twitter.com/bentobenack" target="_blank">Twitter</a> |
-  <a href="https://leetcode.com/bentobenack/" target="_blank">LeetCode</a> |
-  <a href="https://www.hackerrank.com/bentobenack" target="_blank">HackerRank</a>
+  <a href="https://www.linkedin.com/in/bentobenack/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+  <a href="https://www.instagram.com/bentobenack/" target="_blank" rel="noopener noreferrer">Instagram</a> |
+  <a href="https://twitter.com/bentobenack" target="_blank" rel="noopener noreferrer">Twitter</a> |
+  <a href="https://leetcode.com/bentobenack/" target="_blank" rel="noopener noreferrer">LeetCode</a> |
+  <a href="https://www.hackerrank.com/bentobenack" target="_blank" rel="noopener noreferrer">HackerRank</a>
 </p>
