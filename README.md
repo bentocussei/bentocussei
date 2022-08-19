@@ -36,10 +36,10 @@
 
 ##
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/bentobenack/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
   <a href="https://www.instagram.com/bentobenack/" target="_blank" rel="noopener noreferrer">Instagram</a> |
   <a href="https://twitter.com/bentobenack" target="_blank" rel="noopener noreferrer">Twitter</a> |
   <a href="https://leetcode.com/bentobenack/" target="_blank" rel="noopener noreferrer">LeetCode</a> |
   <a href="https://www.hackerrank.com/bentobenack" target="_blank" rel="noopener noreferrer">HackerRank</a>
-</p>
+</div>
