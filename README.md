@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">Hello! I'm Bento Benack</a></h1>
-  <p align="center">Aspiring AI engineer, with a focus on NLP</p>
+  <p align="center">Aspiring Data Scientist</p>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 <br />
 
-- 🔭 I’m currently working on increase my **Natural Language Processing** skills
-- 🌱 I’m currently learning about **Machine Learning | Deep Learning | Natural Language Processing**
+- 🔭 I’m currently working on increase my **Data Science** skills
+- 🌱 I’m currently learning about **Data Science, Machine Learning and Natural Language Processing**
 
 ### Some Certifications
 
