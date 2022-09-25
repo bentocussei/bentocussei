@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">Hello! I'm Bento Benack</a></h1>
-  <p align="center">Aspiring Data Scientist</p>
+  <p align="center">Aspiring NLP Data Scientist</p>
 </p>
 
 <p align="center">
