@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">Hello! I'm Bento Benack</a></h1>
+  <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">Hello! I'm Bento Cussei</a></h1>
   <p align="center">T-Shaped Data Scientist</p>
 </p>
 
