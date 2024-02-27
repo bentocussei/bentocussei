@@ -17,7 +17,7 @@
 <br />
 
 - 🔭 I’m currently working on increase my **Data Science** skills
-- 🌱 I’m currently learning about **Data Science, Machine Learning and Natural Language Processing**
+- 🌱 I’m currently learning about **Financial Data Science**
 
 ### Some Certifications
 
