@@ -17,7 +17,7 @@
 
 <br />
 
-- 🔭 I’m currently working on increase my **DFIR & CTI** skills
+- 🔭 I’m currently working on increase my **Cyber Security** skills
 - 🌱 I’m currently learning about **Pentest, Next.js & Typescript**
 
 ### Some Certifications
