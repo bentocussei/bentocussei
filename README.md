@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">Hello! I'm Bento Cussei</a></h1>
-  <p align="center">T-Shaped Data Scientist</p>
+  <p align="center">Full Stack Developer</p>
+  <p align="center">But I'm more comfortable working on back-end side</p>
 </p>
 
 <p align="center">
@@ -16,8 +17,8 @@
 
 <br />
 
-- 🔭 I’m currently working on increase my **Data Science** skills
-- 🌱 I’m currently learning about **Financial Data Science**
+- 🔭 I’m currently working on increase my **DFIR & CTI** skills
+- 🌱 I’m currently learning about **Pentest**
 
 ### Some Certifications
 
