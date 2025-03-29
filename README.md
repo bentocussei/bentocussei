@@ -11,10 +11,10 @@
 ---
 
 ### 🔥 Current Focus
-- 🧩 Building enterprise AI solutions with **Generative AI & Agentic Systems**
-- 📊 Leading **data-driven digital transformation** initiatives
-- ⚙️ Developing **AI-powered automation** tools and systems
-- 💳 Financial AI Solutions: Fraud Detection • Credit Risk Modeling • Predictive Analytics
+- 🧩 **Financial AI Solutions**: Fraud Detection • Credit Risk Modeling • Predictive Analytics
+- 🤖 **GenAI & automation**: Agentic Systems • LLM Fine-tuning • Synthetic Data Generation
+- ⚙️ **MLOps**: Model Deployment • Monitoring • CI/CD Pipelines
+- 📊 **Data Infrastructure**: Real-time Analytics • Feature Engineering • Data Quality
 
 ---
 
@@ -25,8 +25,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge&logo=xgboost&logoColor=white)
 
 #### 💾 Data Engineering
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### ⚙️ Automation & Deployment
 ![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white)
@@ -37,15 +40,21 @@
 ### 💼 Featured Projects
 
 #### 🕵️ AI Fraud Detection
+- Developed anomaly detection model that can reduce false positives by 35%
+- Stack: Python • XGBoost • TensorFlow • Kafka
 
 #### 📉 AI Credit Risk Prediction
+- Built ML pipeline for default probability forecasting (AUC-ROC 0.92)
+- Stack: PyTorch • Prophet
 
 #### 💳 Credit Limit Management
+- Reinforcement Learning system increasing credit utilization by 18%
+- Stack: RLlib • Scikit-learn • FastAPI • Docker
 
 ---
 
 ### 📚 Current Research
-- Agentic systems for automated reporting
+- Developing Agentic workflows for reporting automation
 - Advanced LLM Fine-tuning Techniques
 - Generative AI
 
