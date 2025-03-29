@@ -1,35 +1,68 @@
 <p align="center">
-  <h1 align="center"><a href="https://www.linkedin.com/in/bentobenack">Hello! I'm Bento Cussei</a></h1>
-  <p align="center">Full Stack Developer</p>
-  <p align="center">But I'm more comfortable working on back-end side</p>
+  <h1 align="center"><a href="https://www.linkedin.com/in/bentocussei">💻 Hello! I'm Bento Cussei</a></h1>
+  <p align="center">Software Engineer | AI & Data Solutions Specialist</p>
+  <p align="center">🚀 Building Intelligent Systems for Digital Transformation</p>
 </p>
 
 <p align="center">
-  <p align="center">📫 You can reach me at:</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Specializing+in+Data+Analytics+%26+Data+Science;AI-Powered+Automation;Data+Driven+Decision+Making" alt="Typing SVG" /></a>
 </p>
 
+---
+
+### 🔥 Current Focus
+- 🧩 Building enterprise AI solutions with **Generative AI & Agentic Systems**
+- 📊 Leading **data-driven digital transformation** initiatives
+- ⚙️ Developing **AI-powered automation** tools and systems
+- 💳 Financial AI Solutions: Fraud Detection • Credit Risk Modeling • Predictive Analytics
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🤖 AI & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### 💾 Data Engineering
+
+#### ⚙️ Automation & Deployment
+![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 💼 Featured Projects
+
+#### 🕵️ AI Fraud Detection
+
+#### 📉 AI Credit Risk Prediction
+
+#### 💳 Credit Limit Management
+
+---
+
+### 📚 Current Research
+- Agentic systems for automated reporting
+- Advanced LLM Fine-tuning Techniques
+- Generative AI
+
+---
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/bentocussei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://bentobenack.com" target="_blank"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bentocussei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/nerdbe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-<br />
-
-- 🔭 I’m currently working on increase my **Cyber Security** skills
-- 🌱 I’m currently learning about **Pentest, Next.js & Typescript**
-
-### Some Certifications
-
-* [certifications](https://github.com/bentobenack/certifications)
-
-##
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bentocussei/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
-  <a href="https://www.instagram.com/nerdbe_/" target="_blank" rel="noopener noreferrer">Instagram</a> |
-  <a href="https://twitter.com/bentobenack" target="_blank" rel="noopener noreferrer">Twitter</a> |
-  <a href="https://leetcode.com/bentobenack/" target="_blank" rel="noopener noreferrer">LeetCode</a> |
-  <a href="https://www.hackerrank.com/bentobenack" target="_blank" rel="noopener noreferrer">HackerRank</a>
+  <h3>💌 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/bentocussei" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://bentobenack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:bentocussei@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/bcussei" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
