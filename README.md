@@ -23,7 +23,7 @@
 
 - 🕸️ Agentic AI Workflows, Generative AI & NLP  
 - 🔐 Offensive Security, Cyber Threat Intelligence & Zero Trust Architecture
-- 🧠 Applying AI & Autonomous Agents in Cybersecurity Operations
+- 🧠 Applying AI & Autonomous Agents in Cybersecurity Operations, Threat Intelligence & OSINT
 
 ---
 
