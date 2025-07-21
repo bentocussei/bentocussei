@@ -2,6 +2,7 @@
 <p align="center">Software Engineer | AI & Data Solutions | Cybersecurity Enthusiast</p>
 <p align="center">🚀 Turning Ideas into Intelligent & Secure Systems</p>
 
+<!--
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+%2B+Cybersecurity+%7C+Agentic+Systems+%7C+Real-world+Solutions" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+%2B+Cybersecurity+%7C+Agentic+Systems+%7C+Real-world+Solutions" alt="Typing SVG" />
@@ -26,7 +27,7 @@
 - 🧠 Applying AI & Autonomous Agents in Cybersecurity Operations, Threat Intelligence & OSINT
 
 ---
-
+-->
 <div align="center">
   <h3>💌 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/bentocussei" target="_blank">
